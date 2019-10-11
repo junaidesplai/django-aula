@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["contenido","index"],envversion:53,filenames:["contenido.rst","index.rst"],objects:{},objnames:{},objtypes:{},terms:{content:1,documentacio:1,menu:1,pagina:1,princip:1},titles:["Documentacio","&lt;no title&gt;"],titleterms:{aqui:0,com:0,del:0,djangoaula:0,documentacio:0,menu:0,pagina:0,podem:0,princip:0,tenim:0,veur:0}})
